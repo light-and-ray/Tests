@@ -1,0 +1,9 @@
+﻿  Tests.cpp
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(25,23): error C4596:  f: недопустимое полное имя в объявлении члена
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(25,23): warning C4099:  A: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(17): message :   см. объявление "A"
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(25,23): error C2460:  B: использует "A", определяемый в настоящий момент
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(17): message :   см. объявление "A"
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(25,23): error C2433:  B: "friend" не разрешается для объявлений данных
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(33,1): error C2327:  A::t: не является именем типа, статическим членом или перечислителем
+C:\Users\Ray\source\repos\Tests\Tests\Tests.cpp(33,11): error C2065:  t: необъявленный идентификатор
